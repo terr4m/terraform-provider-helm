@@ -1,0 +1,5 @@
+apiVersion: v2
+name: library-release
+description: A non-installable chart fixture
+type: library
+version: 0.1.0
